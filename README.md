@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **Java, Spring Boot, System Design**
 
+- 🧑‍💻 I have keen interest in **Competitive Programming**
+
 - 👯 I’m looking to collaborate on **pair programming on System Design**
 
 - 🤝 I’m looking for help with **Mock interviews on System Design**
